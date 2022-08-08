@@ -18,7 +18,7 @@ $git log --oneline
 $git remote add origin https://github.com/p098765/TIL.git
 
 $git push origin master
-
+$git diff hash hash
 $git remote
 
 ```
